@@ -97,3 +97,8 @@ _site/
 /src/geophires_x/CLG Simulator/clg_tea_v3_coaxial_water_elec.py
 /src/geophires_x/CLG Simulator/clg_tea_v3_SCO2_elec.py
 /src/geophires_x/CLG Simulator/clgs_v2.py
+
+# JEDI
+/src/jedi_geothermal/__init__.py
+/tests/jedi_geothermal_tests/test_jedi_geothermal.py
+/tests/jedi_geothermal_tests/__init__.py
